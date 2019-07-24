@@ -13,7 +13,7 @@
 
 ### 3枚目のスライド
 
-- Java |
+- Java
 - JavaScript |
 - Kotlin |
 - Go |
